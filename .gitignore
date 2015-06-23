@@ -1,2 +1,4 @@
 env
 _config.py
+ssdb.db
+ssdata
